@@ -8,6 +8,8 @@
 // @homepageURL  https://github.com/VVSite/gravred-tgm-txtopt
 // @source       https://github.com/VVSite/gravred-tgm-txtopt.git
 // @supportURL   https://github.com/VVSite/gravred-tgm-txtopt/issues
+// @downloadURL  https://raw.githubusercontent.com/VVSite/gravred-tgm-txtopt/refs/heads/main/gravred-tgm-txtopt.js
+// @updateURL    https://raw.githubusercontent.com/VVSite/gravred-tgm-txtopt/refs/heads/main/gravred-tgm-txtopt.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=t.me
 // @grant        none
 // ==/UserScript==
