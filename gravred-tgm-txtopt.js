@@ -5,6 +5,9 @@
 // @description  Optimize Text from Glavred telegram channel for MAX
 // @author       VVSite
 // @match        https://t.me/glavredizakon/*
+// @homepageURL  https://github.com/VVSite/gravred-tgm-txtopt
+// @source       https://github.com/VVSite/gravred-tgm-txtopt.git
+// @supportURL   https://github.com/VVSite/gravred-tgm-txtopt/issues
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=t.me
 // @grant        none
 // ==/UserScript==
