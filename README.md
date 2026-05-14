@@ -3,7 +3,7 @@
 
 # Установка
 1. Установите плагин Tampermonkey для вашего браузера.
-2. Скопируйте содержимое кода скрипта [gravred-tgm-txtopt](https://github.com/VVSite/gravred-tgm-txtopt/blob/main/gravred-tgm-txtopt.js) из репозитория.
+2. Скопируйте содержимое кода скрипта [gravred-tgm-txtopt.js](https://github.com/VVSite/gravred-tgm-txtopt/blob/main/gravred-tgm-txtopt.js) из репозитория.
 3. Щелкните на кнопке плагина, чтобы вызвать меню и выберите «Создать новый скрипт».
 4. Удалите весь текст, который Tampermonkey автоматически добавляет в новый скрипт и вставьте из буфера скопированный в п.2 код.
 5. Сохраните скрипт по «Файл — Сохранить».
