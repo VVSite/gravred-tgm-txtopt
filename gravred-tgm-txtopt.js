@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Glavred Telegram Channel Text
 // @namespace    http://tampermonkey.net/
-// @version      2026-06-18
+// @version      2026-06-19
 // @description  Optimize Text from Glavred telegram channel for MAX
 // @author       VVSite
 // @match        https://t.me/glavredizakon/*
@@ -83,7 +83,7 @@
         }
 
         var clean1 = tgm_text.replace(reg, '');
-        clean1 = clean1.replace(/<br>·/gs, '<i>·</i>');
+        clean1 = clean1.replace(/<br>·/gs, '<br><i>·</i>');
         clean1 = clean1.replace(/<b>·<\/b>/gs, '<i>·</i>');
         clean1 = clean1.replace(/(<b>\&nbsp\;<\/b>)/gs, '');
         clean1 = clean1.replace(/•[^\<br\>]*?<br>/gs, '');
