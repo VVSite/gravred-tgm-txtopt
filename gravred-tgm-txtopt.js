@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Glavred Telegram Channel Text
 // @namespace    http://tampermonkey.net/
-// @version      2026-06-18-17-03
+// @version      2026-06-19
 // @description  Optimize Text from Glavred telegram channel for MAX
 // @author       VVSite
 // @match        https://t.me/glavredizakon/*
