@@ -83,7 +83,7 @@
         }
 
         var clean1 = tgm_text.replace(reg, '');
-        clean1 = clean1.replace(/<br>·/gs, '·');
+        clean1 = clean1.replace(/<br>·/gs, '<i>·</i>');
         clean1 = clean1.replace(/<b>·<\/b>/gs, '<i>·</i>');
         clean1 = clean1.replace(/(<b>\&nbsp\;<\/b>)/gs, '');
         clean1 = clean1.replace(/•[^\<br\>]*?<br>/gs, '');
